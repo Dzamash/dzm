@@ -1,0 +1,107 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  margin-top: 40px;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Pengaturan Header */
+
+.header {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.header img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Pengaturan Waktu dan Tanggal */
+
+.date {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.date h2 {
+  margin-bottom: 20px;
+}
+
+.date p {
+  font-size: 20px;
+}
+
+/* Pengaturan Lokasi */
+
+.location {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.location h2 {
+  margin-bottom: 20px;
+}
+
+.location p {
+  font-size: 20px;
+}
+
+/* Pengaturan Informasi Tambahan */
+
+.additional-info {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.additional-info h2 {
+  margin-bottom: 20px;
+}
+
+.additional-info p {
+  font-size: 20px;
+}
+
+/* Pengaturan Footer */
+
+.footer {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.footer p {
+  margin-bottom: 10px;
+}
+
+.footer a {
+  color: #000000;
+}
+
